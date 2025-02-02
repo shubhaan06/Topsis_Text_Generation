@@ -48,8 +48,5 @@ python topsis_text_gen.py
 ## Results
 The output includes a sorted ranking of the models based on their performance using TOPSIS. The best model is ranked highest.
 
-## Contributors
-Developed by [Your Name].
-
 ## License
 This project is licensed under the MIT License.
